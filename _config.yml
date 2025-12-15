@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Atte Niemelä"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Experienced technology leader with proven AI/ML delivery capability"
+  location         : "Finland"
+  employer         : "Sofigate"
+  uri              : "jalkiviisas.fi"
+  email            : "atte.niemela@gmail.com" 
 
   # Academic websites
   academia         : # URL
